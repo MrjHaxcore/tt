@@ -12,4 +12,13 @@ subdomainfinder.io
 1st Find,list and get the sub domain of the web page
 sample target
 https://test-patatas.iloilocity.online
-Go to /app/epcr/register.php
+2nd Go to /app/epcr/register.php
+Fill out the
+3rd email, first name middle name and last name and password
+4th: Upon successful signup now you can login your account
+5th: Upon Login Go to dashboard and click "List Menu"
+6th: Find any files that have a edit button
+7th: Upon edit upload your shell (php shells) then
+your in the backdoor!
+8th do whatever you want to do!
+Update: January 20, 2024 still working
